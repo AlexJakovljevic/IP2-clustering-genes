@@ -1,0 +1,11 @@
+Size of 0 is:   15677
+Size of 1 is:   1
+Size of 2 is:   22
+Size of 3 is:   1
+Size of 4 is:   2
+Size of 5 is:   51
+Size of 6 is:   35
+Size of 7 is:   2
+Size of 8 is:   171
+Size of 9 is:   1
+Size of 10 is:  2

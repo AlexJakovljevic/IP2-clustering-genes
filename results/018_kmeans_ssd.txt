@@ -1,0 +1,13 @@
+Sum of squared distances for k = 2: 11975521.6639
+Sum of squared distances for k = 3: 8333361.22305
+Sum of squared distances for k = 4: 6834980.05638
+Sum of squared distances for k = 5: 6090281.16998
+Sum of squared distances for k = 6: 5169364.25522
+Sum of squared distances for k = 7: 4815364.36963
+Sum of squared distances for k = 8: 4457133.02511
+Sum of squared distances for k = 9: 4235142.40087
+Sum of squared distances for k = 10: 4068753.06906
+Sum of squared distances for k = 11: 3918015.32307
+Sum of squared distances for k = 12: 3780990.32973
+Sum of squared distances for k = 13: 3649025.76743
+Sum of squared distances for k = 14: 3513269.60938

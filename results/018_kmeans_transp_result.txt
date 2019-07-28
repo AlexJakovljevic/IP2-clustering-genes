@@ -1,0 +1,10 @@
+Size of 0 is:   203
+Size of 1 is:   1156
+Size of 2 is:   42
+Size of 3 is:   728
+Size of 4 is:   217
+Size of 5 is:   4
+Size of 6 is:   294
+Size of 7 is:   460
+Size of 8 is:   65
+Size of 9 is:   27

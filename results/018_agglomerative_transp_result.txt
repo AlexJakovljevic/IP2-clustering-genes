@@ -1,0 +1,10 @@
+Size of 0 is:   417
+Size of 1 is:   590
+Size of 2 is:   17
+Size of 3 is:   42
+Size of 4 is:   1375
+Size of 5 is:   5
+Size of 6 is:   498
+Size of 7 is:   135
+Size of 8 is:   72
+Size of 9 is:   45
